@@ -4,6 +4,9 @@ SQLITE 3 CM is a context manager,
 😃
 **A way TO USE `with` statement on sqlite databases !!**  (WITHOUT CLOSING OR OPENING ANYTING 🤩)
 
+# Install 📦
+    pip install sqlite3cm
+
 #  Docs 📄
 ___
 ```python
