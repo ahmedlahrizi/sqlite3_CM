@@ -17,6 +17,7 @@ setuptools.setup(
     long_description=LONG_DESCRIPTION,
     url="https://github.com/ahmedlahrizi/sqlite3_CM",
     keywords=['python', 'sql', "sqlite", "3", "cm", "context", "manage", "database", "db"],
+    packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
