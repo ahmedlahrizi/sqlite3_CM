@@ -3,7 +3,7 @@ import setuptools
 
 CURR_DIR = pathlib.Path(__file__).parent.resolve()
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'Context manager for Sqlite databases'
 LONG_DESCRIPTION = (CURR_DIR / "README.MD").read_text(encoding='UTF-8')
 
